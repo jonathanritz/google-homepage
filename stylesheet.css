@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.search {
+  width: 300px;
+}
+img {
+  height: 92px;
+  width: 272px;
+  padding-top: 250px;
+  padding-left: 500px;
+}
